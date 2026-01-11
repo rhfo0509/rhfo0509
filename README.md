@@ -23,16 +23,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
@@ -42,15 +38,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-</p>
-
-## 🌱 Recently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/zustand-orange?style=for-the-badge&logo=zustand&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ## 🏅 Stats
@@ -72,7 +59,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **[HeyRoutine](https://github.com/HeyRoutine)** | 대학생의 시간표와 목표, 소비 데이터를 기반으로 AI가 루틴 추천과 소비 분석, 금융 상품 추천을 제공하는 루틴 관리 모바일 앱 | 2025.08 | 신한은행 x SSAFY 해커톤 | 우수상 / FE |
 | **[HealthMate](https://github.com/rhfo0509/HealthMate)** | 트레이너와 회원의 PT 일정, 회원권, 운동과 식단, 체성분 기록 등을 한 번에 관리할 수 있는 PT 전용 관리 모바일 앱 | 2024.03 ~ 2024.10 | 부산대학교 LINC 3.0 캡스톤디자인 | 동상 / 기획, FE |
-| **[Nodebird](https://github.com/rhfo0509/react-nodebird)** | 게시글, 댓글, 이미지 업로드, 해시태그, 리트윗, 팔로우 기능을 제공하는 트위터 형태의 SNS 웹 서비스 | 2023.03 ~ 2023.05 | 개인 프로젝트 | React + Node.js 기반 풀스택 구현 및 배포 경험 |
+| **[YumBalance](https://github.com/ssafy-yumyumcoach)** |식단/운동 기록, 챌린지, 커뮤니티, AI 분석/추천을 제공하는 헬스케어 서비스 | 2023.03 ~ 2023.05 | SSAFY 14기 관통프로젝트 | FE / BE |
 
 ## 🏃 Experiences
 
