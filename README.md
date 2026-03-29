@@ -60,7 +60,7 @@
 | **[VODA](https://github.com/rhfo0509/VODA)** | AI 기반 무인 매장 이상행동 탐지 및 실시간 소통 솔루션 | 2026.01 ~ 2026.02 | SSAFY 14기 공통프로젝트 | BE |
 | **[YumBalance](https://github.com/ssafy-yumyumcoach)** | 식단/운동 기록, 챌린지, 커뮤니티, AI 분석/추천을 제공하는 헬스케어 서비스 | 2025.11 ~ 2025.12 | SSAFY 14기 관통프로젝트 | BE |
 | **[HeyRoutine](https://github.com/rhfo0509/HeyRoutine-FE)** | 대학생의 시간표와 목표, 소비 데이터를 기반으로 AI가 루틴 추천과 소비 분석, 금융 상품 추천을 제공하는 루틴 관리 모바일 앱 | 2025.08 | 신한은행 x SSAFY 해커톤 | 우수상 / FE |
-| **[HealthMate](https://github.com/rhfo0509/HealthMate)** | 트레이너와 회원의 PT 일정, 회원권, 운동과 식단, 체성분 기록 등을 한 번에 관리할 수 있는 PT 전용 관리 모바일 앱 | 2024.03 ~ 2024.10 | 부산대학교 LINC 3.0 캡스톤디자인 | 동상 / 기획, FE |
+| **[HealthMate](https://github.com/rhfo0509/HealthMate)** | 트레이너와 회원의 PT 일정, 회원권, 운동과 식단, 체성분 기록 등을 한 번에 관리할 수 있는 PT 전용 관리 모바일 앱 | 2024.03 ~ 2024.06 | 부산대학교 LINC 3.0 캡스톤디자인 | 동상 / 기획, FE |
 
 ## 🏃 Experiences
 
@@ -73,6 +73,7 @@
 ## 📜 Certificates
 
 <ul>
+  <li>2025.09.19 <strong>TOEIC SPEAKING (IH) - ETS</strong></li>
   <li>2025.09.19 <strong>SQL 개발자(SQLD) - 한국데이터산업진흥원</strong></li>
   <li>2024.11.24 <strong>TOEIC (930) - ETS</strong></li>
   <li>2022.09.02 <strong>정보처리기사 - 한국산업인력공단</strong></li>
