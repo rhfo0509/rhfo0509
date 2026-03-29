@@ -73,7 +73,7 @@
 ## 📜 Certificates
 
 <ul>
-  <li>2025.09.19 <strong>TOEIC SPEAKING (IH) - ETS</strong></li>
+  <li>2026.03.18 <strong>TOEIC SPEAKING (IH) - ETS</strong></li>
   <li>2025.09.19 <strong>SQL 개발자(SQLD) - 한국데이터산업진흥원</strong></li>
   <li>2024.11.24 <strong>TOEIC (930) - ETS</strong></li>
   <li>2022.09.02 <strong>정보처리기사 - 한국산업인력공단</strong></li>
