@@ -64,7 +64,7 @@ SSAFY에서 Java와 Spring 기반 백엔드 개발 역량을 확장했습니다.
 ## 🏃 Experiences
 
 <ul>
-  <li>2025.07 ~ 2026.06<strong>삼성청년SW·AI아카데미(SSAFY) 14기</strong></li>
+  <li>2025.07 ~ 2026.06 <strong>삼성청년SW·AI아카데미(SSAFY) 14기</strong></li>
   <li>2024.07 ~ 2024.08 <strong>부산대학교 여름계절학기 현장실습 - (주)에버스톤</strong></li>
   <li>2018.03 ~ 2025.08 <strong>부산대학교 / IT응용공학과</strong></li>
 </ul>
